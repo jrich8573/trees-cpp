@@ -7,7 +7,7 @@ The primary purpose is a learning exercise involving trees in `C++`.
 ### Contributing
 If you wish to contribute, follow a standard `GitOps` pipeline:
 
-  1. sumbit an issue
+  1. submit an issue
   1. fork the repo
   1. follow the workflow below
   1. open a pull request with your proposed changes.
